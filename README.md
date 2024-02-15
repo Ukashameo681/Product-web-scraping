@@ -16,6 +16,7 @@ this is my first project for the web scraping in the project i follow these step
    5. for products rating
 9. creating a dict for the all data
 10. create data frame for the data
+11. then create a CSV file called product.csv
 
 ### Requried library for this project:
 1. Beautifulsoup
